@@ -1,0 +1,4 @@
+BITRIX_CLIENT_ID = client_id_example
+BITRIX_CLIENT_SECRET = client_secret_example
+BITRIX_DOMAIN = domain_example
+PORT = port_example
